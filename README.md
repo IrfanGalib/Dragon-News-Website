@@ -16,18 +16,28 @@ Deployment Status: ✅ Live & Hosted
 Focus Areas: UI/UX, Performance, Scalability
 
 # 🧠 Tech Stack XP
-Technology	XP Level
-JavaScript (ES6+)	⭐⭐⭐⭐⭐ (Expert)
-React.js	⭐⭐⭐⭐☆ (Advanced)
-HTML5	⭐⭐⭐⭐☆
-CSS3	⭐⭐⭐⭐☆
-Vite	⭐⭐⭐⭐☆
-Firebase Auth	⭐⭐⭐⭐☆
-Firebase Hosting	⭐⭐⭐⭐☆
-Git & GitHub	⭐⭐⭐⭐⭐
-🛠️ Core Features (Achievements Unlocked)
+Technology	          XP Level
 
-#🏆 Achievement Board
+JavaScript (ES6+)	⭐⭐⭐⭐⭐ (Expert)
+
+React.js	⭐⭐⭐⭐☆ (Advanced)
+
+HTML5	⭐⭐⭐⭐☆
+
+CSS3	⭐⭐⭐⭐☆
+
+Vite	⭐⭐⭐⭐☆
+
+Firebase Auth	⭐⭐⭐⭐☆
+
+Firebase Hosting	⭐⭐⭐⭐☆
+
+Git & GitHub	⭐⭐⭐⭐⭐
+
+
+#🛠️ Core Features (Achievements Unlocked)
+
+🏆 Achievement Board
 
 📰 Dynamic News Portal – Structured and readable news layout
 

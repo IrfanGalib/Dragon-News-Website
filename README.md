@@ -5,7 +5,7 @@ Built using React and Firebase, the platform focuses on clean architecture, seam
 
 This project demonstrates my ability to design, build, and deploy a complete web application using modern JavaScript technologies.
 
-#🎮 Project Stats
+# 🎮 Project Stats
 
 Project Level: 🟢 Intermediate → Advanced
 
@@ -16,7 +16,7 @@ Deployment Status: ✅ Live & Hosted
 Focus Areas: UI/UX, Performance, Scalability
 
 # 🧠 Tech Stack XP
-Technology	          XP Level
+Technology-------------- XP Level
 
 JavaScript (ES6+)	⭐⭐⭐⭐⭐ (Expert)
 

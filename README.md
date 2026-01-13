@@ -1,3 +1,9 @@
+# 🐉 Dragon News Portal
+A Production-Ready Modern News Platform
+
+# 🔗 Live Demo:
+👉 https://dragon-news-2e480.web.app/
+
 # 🎯 Project Overview
 
 Dragon News Portal is a fully responsive, modern news website designed to deliver real-time news content with clarity, performance, and scalability in mind.

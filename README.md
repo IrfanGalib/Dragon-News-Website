@@ -35,7 +35,7 @@ Firebase Hosting	⭐⭐⭐⭐☆
 Git & GitHub	⭐⭐⭐⭐⭐
 
 
-#🛠️ Core Features (Achievements Unlocked)
+# 🛠️ Core Features (Achievements Unlocked)
 
 🏆 Achievement Board
 
@@ -53,7 +53,7 @@ Git & GitHub	⭐⭐⭐⭐⭐
 
 🎨 Clean & Modern UI – Focus on usability and readability
 
-#🧩 Architecture & Structure
+# 🧩 Architecture & Structure
 📦 Dragon-News-Website
  ┣ 📂 src        → Application logic & components
  ┣ 📂 public     → Static assets
@@ -62,7 +62,7 @@ Git & GitHub	⭐⭐⭐⭐⭐
  ┣ 📜 package.json → Dependencies & scripts
  ┗ 📜 README.md  → Project documentation
 
-#💼 Why This Project Matters
+# 💼 Why This Project Matters
 
 This project showcases my ability to:
 
@@ -73,7 +73,7 @@ This project showcases my ability to:
 ✔ Deliver production-ready UI/UX
 ✔ Deploy and maintain a live web application
 
-#🚀 What I Learned
+# 🚀 What I Learned
 
 Building scalable React component architecture
 
@@ -85,13 +85,13 @@ Writing maintainable, clean frontend code
 
 Deploying and maintaining live web applications
 
-#👨‍💻 Author
+# 👨‍💻 Author
 
 Irfan Chowdhury
 Frontend Developer | React | Firebase | UI/UX
 🔗 GitHub: https://github.com/irfangalib
 
-⭐ Final Note
+# ⭐ Final Note
 If you found this project interesting, feel free to star the repository ⭐
 Feedback and collaboration are always welcome!
 
